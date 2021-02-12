@@ -52,6 +52,7 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
   https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero
      
 #### Profiles
-  https://www.linkedin.com/in/harshita-sharma1729/
+<a href="https://www.linkedin.com/in/harshita-sharma1729/">LinkedIn</a>
+  
 
  
