@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<link rel="shortcut icon" type="favicon/favicon-16x16.png" href="favicon.ico">
 # Harshita 
 
 ## SUMMARY
