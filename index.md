@@ -24,7 +24,7 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - Worked with Cloud Native solutions - VMware Velero, Prometheus
 
 ## EXPERIENCE:
-    - Mayadata, Bengaluru ​ - Software Engineer Mar 2019 - May 2020
+    - **Mayadata, Bengaluru** ​ - *Software Engineer* Mar 2019 - May 2020
       - Continuous Integration workflow: Created Gitlab CI/CD pipeline for testing REST API’s product. 
      
       - Chaos Engineering: Created Gitlab Pipeline for Chaos Engineering tests of product OpenEBS CStor Volumes
@@ -46,15 +46,15 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
  - harshita-sharma012/my-experiments-with-go
 
 ### TALKS
- - Preserve Kubernetes state using velero
- - Run ZFS in userspace
- - Cloud Native Rejects “Building Blocks: Dynamic
+ - ![Preserve Kubernetes state using velero](https://archive.fosdem.org/2020/schedule/event/velero/)
+ - ![Run ZFS in userspace](https://archive.fosdem.org/2020/schedule/event/run_zfs_in_userspace/)
+ - ![Migrating stateful apps running on Kubernetes](https://www.youtube.com/watch?v=z9rqc8ZYBhc&t=363s)
 
 ### Blogs
-   url: - https://blog.mayadata.io/openebs/hardening-prometheus-and-openebs-using-litmus
-        - https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero
+  - ![Hardening Prometheus and OpenEBS using Litmus](https://blog.mayadata.io/openebs/hardening-prometheus-and-openebs-using-litmus)
+  - ![Kubernetes Backup: Improve already awesome Velero with OpenEBS] https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero
      
 #### Profiles
- https://www.linkedin.com/in/harshita-sharma1729/
+  ![LinkedIn]https://www.linkedin.com/in/harshita-sharma1729/
 
  
