@@ -24,14 +24,14 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - Worked with Cloud Native solutions - VMware Velero, Prometheus
 
 ## EXPERIENCE:
-- **Mayadata, Bengaluru** ​ - *Software Engineer* Mar 2019 - May 2020
+- **Mayadata, Bengaluru** ​ - *Software Engineer                               Mar 2019 - May 2020*
   - Continuous Integration workflow: Created Gitlab CI/CD pipeline for testing REST API’s product. 
      
   - Chaos Engineering: Created Gitlab Pipeline for Chaos Engineering tests of product OpenEBS CStor Volumes
 
   - Worked on Dynamic Provisioning of Kubernetes Local PV
 
-- **Celebal Technologies, Jaipur​** - Associate Data Engineer Sept 2017 - Sept 2018
+- **Celebal Technologies, Jaipur​** - *Associate Data Engineer                 Sept 2017 - Sept 2018*
     - Worked on a full stack Data ETL and reporting project on Azure Cloud
 
 ## EDUCATION:
