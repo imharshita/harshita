@@ -43,13 +43,13 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
   * harshita-sharma012/my-experiments-with-go
 
 ### TALKS
- https://archive.fosdem.org/2020/schedule/event/velero/
- https://archive.fosdem.org/2020/schedule/event/run_zfs_in_userspace/
- https://www.youtube.com/watch?v=z9rqc8ZYBhc&t=363s
+ * <a href="https://archive.fosdem.org/2020/schedule/event/velero/"> Preserve Kubernetes state using velero</a>
+ * <a href="https://archive.fosdem.org/2020/schedule/event/run_zfs_in_userspace/">Run ZFS in userspace </a>
+ * <a href="https://www.youtube.com/watch?v=z9rqc8ZYBhc&t=363s">Migrating stateful apps running on Kubernetes</a>
 
 ### Blogs
-  https://blog.mayadata.io/openebs/hardening-prometheus-and-openebs-using-litmus
-  https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero
+  * <a href="https://blog.mayadata.io/openebs/hardening-prometheus-and-openebs-using-litmus"> Hardening Prometheus and OpenEBS using Litmus</a>
+  * <a href="https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero">Kubernetes Backup: Improve already awesome Velero with OpenEBS</a>
      
 #### Profiles
 <a href="https://www.linkedin.com/in/harshita-sharma1729/">LinkedIn</a>
