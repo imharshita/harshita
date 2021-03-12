@@ -6,13 +6,13 @@ layout: default
 
 ## SUMMARY
 
-Software Engineer with experience in Cloud Native mainly Orchestration - Kubernetes, Containerization -
-Docker and Cloud-native Storage Solution - OpenEBS.
+Software Engineer and Open Source Enthusiast with experience in Distributed Systems, DevOps, Cloud Native solutions - Cloud Platforms, Kubernetes, Docker and Storage - OpenEBS, writing solutions in Golang and Python.
 
 Deployed and managed Cloud Native Applications on GKE using Dynamically Provisioned Container
 Attached Storage, integrated and tested on Gitlab pipelines using Chaos Engineering Tools written in
-Ansible, Python and Golang and ran as Kubernetes Jobs and Monitored using Prometheus.
-Using Automation on every stage of Product Lifecycle and provisioning PAAS services, GKE clusters, Data
+Ansible, Python, Golang and ran as Kubernetes Jobs and Monitored using Prometheus.
+
+Using Automation on every stage of Product Lifecycle and provisioning - PAAS services, GKE clusters, Data
 Migration.
 
 Open Source Event Speaker at FOSDEM Brussels, CNCF meetups and Cloud Native Rejekts on topics like
@@ -23,9 +23,9 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - CI/CD Gitlab pipeline running REST Api testing of product and Chaos Engineering K8s stateful workloads (like Minio, Databases) using Local PV, OpenEBS (Container Atttaced Storage) 
 - Worked with Cloud Native solutions - VMware Velero, Prometheus
 
-## EXPERIENCE:
+## EXPERIENCE
 - **Mayadata, Bengaluru** ​ - *Software Engineer                               Mar 2019 - May 2020*
-  - Continuous Integration workflow: Created Gitlab CI/CD pipeline for testing REST API’s product. 
+  - Continuous Integration workflow: Created Gitlab CI/CD pipeline for running E2E tests, like Functionality checks - REST API’s product and Health checks. 
      
   - Chaos Engineering: Created Gitlab Pipeline for Chaos Engineering tests of product OpenEBS CStor Volumes
 
@@ -34,13 +34,25 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - **Celebal Technologies, Jaipur​** - *Associate Data Engineer                 Sept 2017 - Sept 2018*
     - Worked on a full stack Data ETL and reporting project on Azure Cloud
 
-## EDUCATION:
+## PERSONAL PROJECTS
+ - Image Clone Kuberentes Controller
+   The Image Clone Controller watches for Deployments/DaemonSets and caches the images by re-uploading to    our own registry and reconfiguring the applications to use these copies.
+   Language used: Golang
+  
+ - Fair Billing
+   This is a command line application which takes log file as input and prints report of the users, the      number of sessions, and the minimum possible total duration of their sessions in seconds.
+   Language used: Golang
+    
+
+## EDUCATION
 - **Jaipur Engineering College & Research Center, Jaipur​** - *B.Tech, Computer Science* 2014 - 2018
    
 ### Github
   * harshita-sharma011/oep-e2e
-  * harshita-sharma012/my-experiments-with-k8s
-  * harshita-sharma012/my-experiments-with-go
+  * imharshita/image-controller
+  * imharshita/fair-billing
+  * imharshita/my-experiments-with-k8s
+  * imharshita/my-experiments-with-go
 
 ### TALKS
  * <a href="https://archive.fosdem.org/2020/schedule/event/velero/"> Preserve Kubernetes state using velero</a>
