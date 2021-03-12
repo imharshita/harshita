@@ -16,7 +16,7 @@
 title: Harshita
 email: harshita.sharma6174@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello I'M Harshita
+  Hello I'm Harshita
   Software Engineer, Open Source Enthusiast
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "imharshita.github.io" # the base hostname & protocol for your site, e.g. http://example.com
