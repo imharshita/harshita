@@ -23,6 +23,9 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - CI/CD Gitlab pipeline running REST Api testing of product and Chaos Engineering K8s stateful workloads (like Minio, Databases) using Local PV, OpenEBS (Container Atttaced Storage) 
 - Worked with Cloud Native solutions - VMware Velero, Prometheus
 
+<a href="https://github.com/imharshita/resume/blob/34581a72826ab6d7cbbbf17aac2a8a489d72df08/Harshita-Software-Engineer.pdf" download>Download Resume</a>
+
+
 ## EXPERIENCE
 - **Mayadata, Bengaluru** ​ - *Software Engineer                               Mar 2019 - May 2020*
   - Continuous Integration workflow: Created Gitlab CI/CD pipeline for running E2E tests, like Functionality checks - REST API’s product and Health checks. 
@@ -51,6 +54,7 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 <div class="github-profile-badge" data-user="harshita-sharma011"></div>
 <div class="github-profile-badge" data-user="imharshita"></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+
 
 ### TALKS
  * <a href="https://archive.fosdem.org/2020/schedule/event/velero/"> Preserve Kubernetes state using velero</a>
