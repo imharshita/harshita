@@ -70,5 +70,5 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="harshita-sharma1729"><a class="LI-simple-link" href='https://in.linkedin.com/in/harshita-sharma1729?trk=profile-badge'>Harshita Sharma</a></div>
   
-
- 
+<div class="github-profile-badge" data-user="imharshita"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
