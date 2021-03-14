@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link rel="shortcut icon" type="favicon/favicon-16x16.png" href="favicon.ico">
 
 # Harshita 
 
@@ -65,7 +64,7 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
   * <a href="https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero">Kubernetes Backup: Improve already awesome Velero with OpenEBS</a>
      
 #### Profiles
-<a href="https://www.linkedin.com/in/harshita-sharma1729/">LinkedIn</a>
+<link rel="shortcut icon" type="favicon/favicon-16x16.png" href="favicon.ico">
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
