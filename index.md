@@ -23,7 +23,7 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - CI/CD Gitlab pipeline running REST Api testing of product and Chaos Engineering K8s stateful workloads (like Minio, Databases) using Local PV, OpenEBS (Container Atttaced Storage) 
 - Worked with Cloud Native solutions - VMware Velero, Prometheus
 
-<a href="https://github.com/imharshita/resume/blob/34581a72826ab6d7cbbbf17aac2a8a489d72df08/Harshita-Software-Engineer.pdf" download>Download Resume</a>
+<a href="https://github.com/imharshita/resume/blob/34581a72826ab6d7cbbbf17aac2a8a489d72df08/Harshita-Software-Engineer.pdf">View Resume</a>
 
 
 ## EXPERIENCE
