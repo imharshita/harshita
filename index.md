@@ -48,11 +48,10 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 - **Jaipur Engineering College & Research Center, Jaipur​** - *B.Tech, Computer Science* 2014 - 2018
    
 ### Github
-  * harshita-sharma011/oep-e2e
-  * imharshita/image-controller
-  * imharshita/fair-billing
-  * imharshita/my-experiments-with-k8s
-  * imharshita/my-experiments-with-go
+<div class="github-profile-badge" data-user="harshita-sharma011"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+<div class="github-profile-badge" data-user="imharshita"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 
 ### TALKS
  * <a href="https://archive.fosdem.org/2020/schedule/event/velero/"> Preserve Kubernetes state using velero</a>
@@ -64,8 +63,6 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
   * <a href="https://blog.mayadata.io/openebs/suggesting-ways-to-improve-already-awesome-velero">Kubernetes Backup: Improve already awesome Velero with OpenEBS</a>
      
 #### Profiles
-<div class="github-profile-badge" data-user="imharshita"></div>
-<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 
 <link rel="shortcut icon" type="favicon/favicon-16x16.png" href="favicon.ico">
 
